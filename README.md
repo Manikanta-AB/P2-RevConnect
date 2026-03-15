@@ -1,4 +1,4 @@
-# RevConnect — Professional Networking Reimagined
+# RevConnect — Professional Networking Application
 
 RevConnect is a high-performance Monolithic Web Application designed for professional networking and community engagement. Inspired by modern social platforms, it features a unique "Pastel Haven" aesthetic combined with robust enterprise-grade security and analytics.
 
